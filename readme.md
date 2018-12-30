@@ -13,20 +13,20 @@ Nội dung
 a. Mục tiêu:<br/>
 Xây dựng 1 trang web thương mại điện tử qua mạng Internet. Hệ thống có các tính năng trưng bày sản phẩm, lọc sản phẩm theo tên, giao dịch và thanh toán, xuất hóa đơn dưới dạng html và pdf, bình luận và đánh giá sản phẩm qua Facebook, đăng kí và đăng nhập, các chức năng quản lý phía quản trị viên.<br/>
 b. Kết quả đã đạt được<br/>
-Hệ thống có đầy đủ các tính năng được liệt kê ở trên.
-Hệ thống được thiết kế theo mô hình MVC.
-Hệ thống áp dụng các công nghệ mới như Java 8, Java EE 7..
-c. Hạn chế, hướng phát triển
+Hệ thống có đầy đủ các tính năng được liệt kê ở trên.<br/>
+Hệ thống được thiết kế theo mô hình MVC.<br/>
+Hệ thống áp dụng các công nghệ mới như Java 8, Java EE 7..<br/>
+c. Hạn chế, hướng phát triển<br/>
 
-2. Phân công công việc
-STT - Họ tên - Các nội dung thực hiện                                       
-1      - Dũng   - Thiết kế database, Giao diện quản trị (giỏ hàng, thư mục phân loại hàng hóa, trang chủ, đăng nhập)
-2      - Tụ     - Giao diện người dùng (giỏ hàng, trang chủ, đăng nhập, sản phẩm, đăng kí, xem chi tiết hàng hóa)
-3      - Hiếu   - Viết servlet (các lớp điều khiển cho quản trị viên)
-4      - Dũng  - Viết servlet (các lớp điều khiển cho người dùng, xác thực, xác minh thẩm quyền và chống DoS, thanh toán, xuất báo cáo HTML, PDF)
-5      - Dũng  - Truy nhập CSDL (danh mục, đặt hàng, sản phẩm, người dùng,..)
-6      - Tụ     - Thêm CSS cho các file HTML
-7      - Tụ     - Thêm JavaScript cho các file HTML
+2. Phân công công việc<br/>
+STT - Họ tên - Các nội dung thực hiện<br/>                          
+1      - Dũng   - Thiết kế database, Giao diện quản trị (giỏ hàng, thư mục phân loại hàng hóa, trang chủ, đăng nhập)<br/>
+2      - Tụ     - Giao diện người dùng (giỏ hàng, trang chủ, đăng nhập, sản phẩm, đăng kí, xem chi tiết hàng hóa)<br/>
+3      - Hiếu   - Viết servlet (các lớp điều khiển cho quản trị viên)<br/>
+4      - Dũng  - Viết servlet (các lớp điều khiển cho người dùng, xác thực, xác minh thẩm quyền và chống DoS, thanh toán, xuất báo cáo HTML, PDF)<br/>
+5      - Dũng  - Truy nhập CSDL (danh mục, đặt hàng, sản phẩm, người dùng,..)<br/>
+6      - Tụ     - Thêm CSS cho các file HTML<br/>
+7      - Tụ     - Thêm JavaScript cho các file HTML<br/>
 
 3. Quá trình thực hiện
 Phiên bản - Chức năng - Kĩ thuật/nội dung lí thuyết đã ứng dụng                - Thời gian 

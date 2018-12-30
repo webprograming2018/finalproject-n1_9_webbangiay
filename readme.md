@@ -29,9 +29,9 @@ STT - Họ tên - Các nội dung thực hiện<br/>
 7      - Tụ     - Thêm JavaScript cho các file HTML<br/>
 
 3. Quá trình thực hiện<br/>
-- Chức năng - Kĩ thuật/nội dung lí thuyết đã ứng dụng <br/>
-- mục 1b    - Sử dụng thư viện JQuery (viết tương tác, xử lý AJAX) <br/>
-                      - CSS layout kiểu flex <br/>
+- Kĩ thuật/nội dung lí thuyết đã ứng dụng <br/>
+- Sử dụng thư viện JQuery (viết tương tác, xử lý AJAX..) <br/>
+                      - CSS layout kiểu flex, grid <br/>
                       - Hệ thống sử dụng mô hình MVC <br/>
                       - Công nghệ JSP/Servlet/Java 8<br/>
                       - Sử dụng Tomcat server (version 9),  hệ quản trị CSDL MySQL<br/>

@@ -20,8 +20,8 @@ c. Hạn chế, hướng phát triển
 
 2. Phân công công việc
 STT - Họ tên - Các nội dung thực hiện                                       
-1      - Dũng   - Giao diện quản trị (giỏ hàng, thư mục phân loại hàng hóa, trang chủ, đăng nhập)
-2      - Tụ      - Giao diện người dùng (giỏ hàng, trang chủ, đăng nhập, sản phẩm, đăng kí, xem chi tiết hàng hóa)
+1      - Dũng   - Thiết kế database, Giao diện quản trị (giỏ hàng, thư mục phân loại hàng hóa, trang chủ, đăng nhập)
+2      - Tụ     - Giao diện người dùng (giỏ hàng, trang chủ, đăng nhập, sản phẩm, đăng kí, xem chi tiết hàng hóa)
 3      - Hiếu   - Viết servlet (các lớp điều khiển cho quản trị viên)
 4      - Dũng  - Viết servlet (các lớp điều khiển cho người dùng, xác thực, xác minh thẩm quyền và chống DoS, thanh toán, xuất báo cáo HTML, PDF)
 5      - Dũng  - Truy nhập CSDL (danh mục, đặt hàng, sản phẩm, người dùng,..)

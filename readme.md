@@ -9,10 +9,10 @@ Thành viên
 3. Bùi Văn Tụ - B15DCCN
 
 Nội dung
-1. Giới thiệu sơ lược chủ đề
-a. Mục tiêu:
-Xây dựng 1 trang web thương mại điện tử qua mạng Internet. Hệ thống có các tính năng trưng bày sản phẩm, lọc sản phẩm theo tên, giao dịch và thanh toán, xuất hóa đơn dưới dạng html và pdf, bình luận và đánh giá sản phẩm qua Facebook, đăng kí và đăng nhập, các chức năng quản lý phía quản trị viên.
-b. Kết quả đã đạt được
+1. Giới thiệu sơ lược chủ đề <br/>
+a. Mục tiêu:<br/>
+Xây dựng 1 trang web thương mại điện tử qua mạng Internet. Hệ thống có các tính năng trưng bày sản phẩm, lọc sản phẩm theo tên, giao dịch và thanh toán, xuất hóa đơn dưới dạng html và pdf, bình luận và đánh giá sản phẩm qua Facebook, đăng kí và đăng nhập, các chức năng quản lý phía quản trị viên.<br/>
+b. Kết quả đã đạt được<br/>
 Hệ thống có đầy đủ các tính năng được liệt kê ở trên.
 Hệ thống được thiết kế theo mô hình MVC.
 Hệ thống áp dụng các công nghệ mới như Java 8, Java EE 7..

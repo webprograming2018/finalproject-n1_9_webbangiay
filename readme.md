@@ -28,25 +28,25 @@ STT - Họ tên - Các nội dung thực hiện<br/>
 6      - Tụ     - Thêm CSS cho các file HTML<br/>
 7      - Tụ     - Thêm JavaScript cho các file HTML<br/>
 
-3. Quá trình thực hiện
-Phiên bản - Chức năng - Kĩ thuật/nội dung lí thuyết đã ứng dụng                - Thời gian 
-1.0       - mục 1b    - Sử dụng thư viện JQuery (viết tương tác, xử lý AJAX)   - 4 tháng  
-                      - CSS layout kiểu flex                                             
-                      - Hệ thống sử dụng mô hình MVC                                       
-                      - Công nghệ JSP/Servlet/Java 8
-                      - Sử dụng Tomcat server (version 9),  hệ quản trị CSDL MySQL
-                      - Sử dụng 1 số thư viện như: Jstl 1.2, Mysql jdbc, IText, Simple Json
-4. Một số vấn đề gặp phải
-- Định dạng văn bản UTF-8 bị lỗi (Xong)
- => Khi lập trình HTML và Servlet phải gửi/nhận dữ liệu theo định dạng UTF-8, cài đặt Eclipse đọc và dịch theo dạng UTF-8
-- Vấn đề đường dẫn tương đối tuyệt đối (Xong)
-- Vấn đề lỗi font khi xuất ra file PDF (Xong)
- => Thêm và sử dụng một font chữ hỗ trợ tiếng Việt
-- Vấn đề thiết kế filter lọc request xấu (DosFilter - Xong)
- => Tham khảo ý tưởng từ một số thư viện nổi tiếng rồi tự viết một filter đơn giản theo ý mình
-- Vấn đề khi làm việc với Facebook (Xong)
- => Xử lý token, quyền, cài đặt ứng dụng để hỗ trợ theo nhu cầu phát triển.
-- Thiết kế code dễ quản lý, bảo trì, tên gợi nhớ.. (Xong)
- => Tham khảo code từ các project đã làm, từ các bài viết, code được chia sẻ trên mạng.. để thiết kế code theo chủ đề của mình và độ lớn của project.
- ... Và còn một số vấn đề khác..
+3. Quá trình thực hiện<br/>
+Phiên bản - Chức năng - Kĩ thuật/nội dung lí thuyết đã ứng dụng                - Thời gian <br/>
+1.0       - mục 1b    - Sử dụng thư viện JQuery (viết tương tác, xử lý AJAX)   - 4 tháng  <br/>
+                      - CSS layout kiểu flex                                             <br/>
+                      - Hệ thống sử dụng mô hình MVC                                       <br/>
+                      - Công nghệ JSP/Servlet/Java 8<br/>
+                      - Sử dụng Tomcat server (version 9),  hệ quản trị CSDL MySQL<br/>
+                      - Sử dụng 1 số thư viện như: Jstl 1.2, Mysql jdbc, IText, Simple Json<br/>
+4. Một số vấn đề gặp phải<br/>
+- Định dạng văn bản UTF-8 bị lỗi (Xong)<br/>
+ => Khi lập trình HTML và Servlet phải gửi/nhận dữ liệu theo định dạng UTF-8, cài đặt Eclipse đọc và dịch theo dạng UTF-8<br/>
+- Vấn đề đường dẫn tương đối tuyệt đối (Xong)<br/>
+- Vấn đề lỗi font khi xuất ra file PDF (Xong)<br/>
+ => Thêm và sử dụng một font chữ hỗ trợ tiếng Việt<br/>
+- Vấn đề thiết kế filter lọc request xấu (DosFilter - Xong)<br/>
+ => Tham khảo ý tưởng từ một số thư viện nổi tiếng rồi tự viết một filter đơn giản theo ý mình<br/>
+- Vấn đề khi làm việc với Facebook (Xong)<br/>
+ => Xử lý token, quyền, cài đặt ứng dụng để hỗ trợ theo nhu cầu phát triển.<br/>
+- Thiết kế code dễ quản lý, bảo trì, tên gợi nhớ.. (Xong)<br/>
+ => Tham khảo code từ các project đã làm, từ các bài viết, code được chia sẻ trên mạng.. để thiết kế code theo chủ đề của mình và độ lớn của project.<br/>
+ ...
  
